@@ -1,0 +1,1170 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"LnDL",
+				"LnDL_L1"
+			],
+			[
+				"eq_q",
+				"eq_qH"
+			],
+			[
+				"Q",
+				"Q_bar"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"whi",
+				"whiteside"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"diffy",
+				"Diffy Compare"
+			],
+			[
+				"diff",
+				"Diffy Compare"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"apple",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"IPython Notebook",
+				"Open IPython Notebook"
+			],
+			[
+				"ipython",
+				"Open IPython Notebook"
+			],
+			[
+				"ipyt",
+				"Open IPython Notebook"
+			],
+			[
+				"latextoo",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"ipy",
+				"Open IPython Notebook"
+			],
+			[
+				"ip",
+				"Open IPython Notebook"
+			],
+			[
+				"open",
+				"Open IPython Notebook"
+			],
+			[
+				"Open IPython Notebook",
+				"Open IPython Notebook"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"view as",
+				"SublimeHighlight: view as HTML"
+			],
+			[
+				"highlight",
+				"SublimeHighlight: view as HTML"
+			],
+			[
+				"html",
+				"SublimeHighlight: view as HTML"
+			],
+			[
+				"export",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"fortran",
+				"Set Syntax: MinimalFortran"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"fortra",
+				"Set Syntax: Fortran - Modern"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 512.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"data",
+			"python",
+			"close(1)",
+			"close()",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_companies",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_data",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_layouts"
+	],
+	"file_history":
+	[
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/assets/css/style.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_config.yml",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/host-github.txt",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/components/_intro-image.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/index.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_layouts/home.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_includes/header.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/components/_logo.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_capabilities/tool-die-design-build-en.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_capabilities/tool-die-design-build.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_layouts/companies.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_layouts/capabilities.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_data/menus.yml",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/capabilities.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/capabilities-en.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/contact-en.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/host-aws.txt",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll-serif-theme/logging/2022-05-13-21-32-58-78B5F3AB5973AD9F",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll-serif-theme/logging/2022-05-14-18-32-11-C7BDC8928E5B2E20",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll-serif-theme/logging/2022-05-09-19-18-25-A9095EC067F93401",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_layouts/capability.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/companies.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_capabilities/high-pressure-die-casting-en.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_capabilities/high-pressure-die-casting.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_capabilities/hpdc-en.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_capabilities/hpdc.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_capabilities/stamping.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/notes/jekyll.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/products.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_layouts/product.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_layouts/products.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/pages/_page-product.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/pages/_page-home.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/components/_buttons.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/components/_call.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_includes/call.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_includes/call-en.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/bootstrap/_variables.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/components/_sub-footer.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/components/_footer.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/en.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/companies-en.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/contact.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/news-en.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/news.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_layouts/default.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/about.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/bootstrap/_grid.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_layouts/news.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_news/2017-03-17-SVW-en.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/notes/html.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_news/2017-03-17-SVW.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_news/2021-04-22-FAW-VW-ZP5.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_layouts/new.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_news/2021-04-22-FAW-VW-ZP5-en.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_data/features.json",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_data/seo.yml",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_data/social.json",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_data/features-en.json",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_news/2021-04-22-防错漏焊防锈专题研讨会.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_news/2022-05-07-apple.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_data/contact-en.yaml",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/about-en.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_companies/hyrun.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_companies/wanrun.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_companies/xingrun.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_companies/wanrun-en.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_companies/hyrun-en.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_companies/xingrun-en.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_companies/shirun.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_companies/shirun-en.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_companies/hyrun-eq-en.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_companies/hyrun-eq.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_layouts/company.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_companies/hyrun/eq-en.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_companies/hyrun/eq.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/stackbit.yaml",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/73/a21e22e9cf23449c1c7386f8c770c4ee60fa73768a3995e20388761d0e765c",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/4d/386e2577ad3f93a79aeb139694821d5dd128e7cbcb5156d80b37a517242f20",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/34/7c9a7bc9c4a7a048f6094598f06e6734890a478d5b7b26f995fa0d8cd25c09",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_companies/herun-en.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/host_aws.txt",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_data/contact.yml",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/hostgithub.txt",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_includes/aws.txt",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_layouts/contact.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_includes/sub-footer.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_includes/footer.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_includes/social.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/images/social/twitter2.svg",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/images/social/github.svg",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/images/social/weibo2.svg",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/README.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/LICENSE",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_companies/herun.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll-serif-theme/logging/2022-05-09-19-12-49-4375D00423520FD2",
+		"/Users/titanic/Dropbox/3Res_Others/Website/jekyll-serif-theme/logging/2022-05-09-19-16-16-ADA2A9E6FA69A601",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_site/contact/index.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/images/contact/maps-baidu.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_includes/maps-baidu.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_layouts/page.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_includes/main-menu-mobile.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_companies/accounting.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/yanlongindustrial.sublime-workspace",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_layouts/service.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_layouts/services.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/pages/_page-service.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_services/superannuation.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_services/tax-preperation.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/services-en.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/1f/19be76703c39eede4b11ee19c0d33a817facf7252e6857bd73c5fcaef69d5d",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/8d/0b86d90bd39d48239ad9bf0baa2053ed0377ba688a98dfb1a123f19e33cbad",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/c8/a0bb2e98209dcffc24ce4fb18a8e5f164ac99be8d5d9395aabbf26c118d332",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_services/accounting.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/services.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/index-en.md",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/pages/_page-teams.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_includes/main-menu.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_data/navigation.yml",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_includes/main-nav.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_includes/main-nav-mobile.html",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/components/_main-nav.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/assets/js/scripts.js",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/components/_main-menu-mobile.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/bootstrap/_nav.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/bootstrap/_dropdown.scss",
+		"/Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_sass/bootstrap/_button-group.scss"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"-text",
+			"bottom: -",
+			"bottom: ",
+			"intro_image",
+			"belt.svg",
+			"logo.jpg",
+			"logo",
+			"技术能力",
+			"Wiegel",
+			"产品",
+			"company",
+			"companies",
+			"and",
+			"product",
+			"companies",
+			"子公司",
+			" \n",
+			"page-company",
+			"{{",
+			"primary",
+			"color",
+			"call-zip",
+			"a:",
+			"a:link",
+			"container",
+			"row justify-content-start",
+			"col-12 col-md-4 mb-1",
+			"company company-summary",
+			"company-content",
+			"company-title",
+			"steel",
+			"$primary",
+			"footer-background-color",
+			"color",
+			"footer-inner",
+			"footer-title",
+			"foot-title",
+			"danger",
+			"primary",
+			"blue",
+			"theme-colors",
+			"theme-color",
+			"color",
+			"bootstrap",
+			"color",
+			" red",
+			" red ",
+			"red",
+			"company-title",
+			"company-content",
+			"company company-summary",
+			"button button-primary",
+			"container pt",
+			"container",
+			"container pt-6 pb-6",
+			"row justify-content-center",
+			"view all",
+			"view all serv",
+			"45",
+			"30%",
+			"\"img1.jpeg\"",
+			"300",
+			"100",
+			"/i",
+			"/",
+			"png",
+			"post",
+			"posts",
+			"版权",
+			"\t",
+			"{%",
+			"page.lang",
+			"site.lang",
+			"logo",
+			"logo.jpg",
+			"url",
+			"hyrun",
+			"weight",
+			"服务",
+			"jpg",
+			"layout: company",
+			"date",
+			"featured: true",
+			"featured",
+			"absolute",
+			"c.",
+			"post",
+			"p",
+			"post",
+			"compani",
+			"data",
+			"site.",
+			"permalink",
+			"herun",
+			"Hyrun",
+			"HeRun",
+			" ",
+			"url",
+			"call",
+			"absolute",
+			"contact_button_link",
+			"google",
+			"==\"zh\"",
+			"seo",
+			"版权所有",
+			"artfully",
+			"Yanlong",
+			"title",
+			"foot",
+			"上海燕龙实业",
+			"上海燕龙实业\n",
+			"footer",
+			"Home",
+			"contact",
+			"Jekyll Serif",
+			"social",
+			"zerostatic",
+			"    {",
+			"              ",
+			"else",
+			"consultation",
+			"png",
+			"CLOUDFRONT",
+			"gstatic",
+			"data.contact.",
+			"head",
+			"body",
+			"maparea"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"mainpage: true",
+			"HyRun",
+			"company",
+			"Company",
+			"Companies",
+			"companies"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 145.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 174.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "yanlongindustrial.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git",
+				"host-github.txt"
+			],
+			[
+				"confi",
+				"_config.yml"
+			],
+			[
+				"home",
+				"_layouts/home.html"
+			],
+			[
+				"intro",
+				"_sass/components/_intro-image.scss"
+			],
+			[
+				"st",
+				"assets/css/style.scss"
+			],
+			[
+				"styl",
+				"assets/css/style.scss"
+			],
+			[
+				"aws",
+				"host-aws.txt"
+			],
+			[
+				"conta",
+				"contact-en.md"
+			],
+			[
+				"capa",
+				"capabilities.md"
+			],
+			[
+				"men",
+				"_data/menus.yml"
+			],
+			[
+				"comp",
+				"_layouts/companies.html"
+			],
+			[
+				"too",
+				"_capabilities/tool-die-design-build-en.md"
+			],
+			[
+				"tool",
+				"_capabilities/tool-die-design-build.md"
+			],
+			[
+				"high",
+				"_capabilities/high-pressure-die-casting-en.md"
+			],
+			[
+				"hpdc",
+				"_capabilities/hpdc-en.md"
+			],
+			[
+				"stamp",
+				"_capabilities/stamping.md"
+			],
+			[
+				"je",
+				"notes/jekyll.md"
+			],
+			[
+				"index",
+				"index.md"
+			],
+			[
+				"pro",
+				"products.md"
+			],
+			[
+				"menu",
+				"_data/menus.yml"
+			],
+			[
+				"page-",
+				"_sass/pages/_page-company.scss"
+			],
+			[
+				"produc",
+				"_layouts/products.html"
+			],
+			[
+				"ind",
+				"index.md"
+			],
+			[
+				"jek",
+				"notes/jekyll.md"
+			],
+			[
+				"button",
+				"_sass/components/_buttons.scss"
+			],
+			[
+				"call.ht",
+				"_includes/call.html"
+			],
+			[
+				"page-hom",
+				"_sass/pages/_page-home.scss"
+			],
+			[
+				"call",
+				"_includes/call-en.html"
+			],
+			[
+				"call.",
+				"_sass/components/_call.scss"
+			],
+			[
+				"sty",
+				"assets/css/style.scss"
+			],
+			[
+				"inde",
+				"index.md"
+			],
+			[
+				"en",
+				"en.md"
+			],
+			[
+				"about",
+				"about.md"
+			],
+			[
+				"de",
+				"_layouts/default.html"
+			],
+			[
+				"news",
+				"_layouts/news.html"
+			],
+			[
+				"html",
+				"notes/html.md"
+			],
+			[
+				"svw",
+				"_news/2017-03-17-SVW-en.md"
+			],
+			[
+				"new.h",
+				"_layouts/new.html"
+			],
+			[
+				"zp",
+				"_news/2021-04-22-FAW-VW-ZP5-en.md"
+			],
+			[
+				"apple",
+				"_news/2022-05-07-apple.md"
+			],
+			[
+				"compa",
+				"_layouts/companies.html"
+			],
+			[
+				"contact-en",
+				"_data/contact-en.yaml"
+			],
+			[
+				"cont",
+				"contact.md"
+			],
+			[
+				"conf",
+				"_config.yml"
+			],
+			[
+				"xing",
+				"_companies/xingrun.md"
+			],
+			[
+				"wan",
+				"_companies/wanrun.md"
+			],
+			[
+				"compan",
+				"_layouts/companies.html"
+			],
+			[
+				"companies",
+				"_layouts/companies.html"
+			],
+			[
+				"eq",
+				"_companies/hyrun-eq.md"
+			],
+			[
+				"hyru",
+				"_companies/hyrun-en.md"
+			],
+			[
+				"hy",
+				"_companies/hyrun.md"
+			],
+			[
+				"hyrun-eq",
+				"_companies/hyrun-eq.md"
+			],
+			[
+				"hyr",
+				"_companies/hyrun-en.md"
+			],
+			[
+				"contac",
+				"contact-en.md"
+			],
+			[
+				"seo",
+				"_data/seo.yml"
+			],
+			[
+				"foot",
+				"_includes/footer.html"
+			],
+			[
+				"foo",
+				"_includes/footer.html"
+			],
+			[
+				"sub",
+				"_includes/sub-footer.html"
+			],
+			[
+				"footer",
+				"_includes/footer.html"
+			],
+			[
+				"fo",
+				"_includes/footer.html"
+			],
+			[
+				"social",
+				"_data/social.json"
+			],
+			[
+				"hom",
+				"_layouts/home.html"
+			],
+			[
+				"xingru",
+				"_companies/xingrun.md"
+			],
+			[
+				"wanr",
+				"_companies/wanrun.md"
+			],
+			[
+				"shiru",
+				"_companies/shirun-en.md"
+			],
+			[
+				"shir",
+				"_companies/shirun.md"
+			],
+			[
+				"xingrun",
+				"_companies/xingrun.md"
+			],
+			[
+				"her",
+				"_companies/herun-en.md"
+			],
+			[
+				"herun",
+				"_companies/herun.md"
+			],
+			[
+				"_con",
+				"_config.yml"
+			],
+			[
+				"baidu",
+				"images/contact/maps-baidu.html"
+			],
+			[
+				"def",
+				"_layouts/default.html"
+			],
+			[
+				"con",
+				"contact.md"
+			],
+			[
+				"about-",
+				"about-en.md"
+			],
+			[
+				"page",
+				"_layouts/page.html"
+			],
+			[
+				"com",
+				"_layouts/companies.html"
+			],
+			[
+				"pag",
+				"_layouts/page.html"
+			],
+			[
+				"en.",
+				"en.md"
+			],
+			[
+				"he",
+				"_companies/herun-en.md"
+			],
+			[
+				"acc",
+				"_companies/accounting.md"
+			],
+			[
+				"servic",
+				"_layouts/services.html"
+			],
+			[
+				"servi",
+				"_layouts/service.html"
+			],
+			[
+				"serv",
+				"services.md"
+			],
+			[
+				"accoun",
+				"_services/accounting.md"
+			],
+			[
+				"accou",
+				"_services/accounting.md"
+			],
+			[
+				"mobile",
+				"_includes/main-nav-mobile.html"
+			],
+			[
+				"nav",
+				"_includes/main-nav.html"
+			],
+			[
+				"mobi",
+				"_includes/main-menu-mobile.html"
+			],
+			[
+				"defa",
+				"_layouts/default.html"
+			],
+			[
+				"main",
+				"_includes/main-menu-mobile.html"
+			],
+			[
+				"team",
+				"team.md"
+			],
+			[
+				"new",
+				"news-en.html"
+			],
+			[
+				"yanl",
+				"_posts/2022-05-09-yanlong.md"
+			],
+			[
+				"05-0",
+				"_posts/2022-05-09-燕龙实业.md"
+			],
+			[
+				"bana",
+				"_posts/2022-05-08-banana.md"
+			],
+			[
+				"app",
+				"_posts/2022-05-07-apple.md"
+			],
+			[
+				"blog",
+				"blog.html"
+			],
+			[
+				"n",
+				"_data/navigation.yml"
+			],
+			[
+				"guan",
+				"guan-yu.md"
+			],
+			[
+				"navi",
+				"_data/navigation.yml"
+			],
+			[
+				"mk",
+				"TA_MkSc.tex"
+			],
+			[
+				"result",
+				"7_Result.tex"
+			],
+			[
+				"cf",
+				"8_CF.tex"
+			],
+			[
+				"1",
+				"1_Intro.tex"
+			],
+			[
+				"py",
+				"2_Python.tex"
+			],
+			[
+				"8",
+				"8_CF.tex"
+			],
+			[
+				"7",
+				"7_Result.tex"
+			],
+			[
+				"6",
+				"6_Estimation.tex"
+			],
+			[
+				"5",
+				"5_Extension.tex"
+			],
+			[
+				"4",
+				"4_Model.tex"
+			],
+			[
+				"3",
+				"3_Data.tex"
+			],
+			[
+				"pre",
+				"TA_Preamble.tex"
+			],
+			[
+				"appen",
+				"10_Appendix.tex"
+			],
+			[
+				"2",
+				"2_Python.tex"
+			],
+			[
+				"0",
+				"0_Title.tex"
+			],
+			[
+				"esti",
+				"6_Estimation.tex"
+			],
+			[
+				"estim",
+				"6_Estimation.tex"
+			],
+			[
+				"mode",
+				"4_Model.tex"
+			],
+			[
+				"mksc",
+				"TA_MkSc.tex"
+			],
+			[
+				"t2",
+				"t2.tex"
+			],
+			[
+				"ta_main",
+				"TA_Main.tex"
+			],
+			[
+				"ext",
+				"5_Extension.tex"
+			],
+			[
+				"ta_mksc",
+				"TA_MkSc.tex"
+			],
+			[
+				"10",
+				"10_Appendix.tex"
+			],
+			[
+				"9",
+				"9_Conclusion.tex"
+			],
+			[
+				"ta_ms",
+				"TA_MS.tex"
+			],
+			[
+				"model",
+				"4_Model.tex"
+			],
+			[
+				"ta_m",
+				"TA_Main.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/3Res_Others/Website/tutorial/tutorial.sublime-project"
+			],
+			[
+				"sh",
+				"~/Dropbox/3Res_Others/Website/shaw/shaw.sublime-project"
+			],
+			[
+				"cc",
+				"~/Dropbox/1Res_Main_Projects/CCSOC/CCSOC.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

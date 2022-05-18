@@ -1,0 +1,17 @@
+http://yanlongindustrial.s3-website-us-east-1.amazonaws.com/
+
+jekyll build
+cd /Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_site
+aws s3 sync . s3://yanlongindustrial
+cd /Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial
+jekyll serve --livereload
+
+
+cd /Users/titanic/Dropbox/3Res_Others/Website/jekyll-serif-theme/logging
+aws s3 sync s3://CCSOC/logs/ .
+
+goaccess --log-format AWSS3 --date-format AWSS3 --time-format AWSS3 -o ~/serialized.html
+goaccess --log-format AWSS3 
+
+
+

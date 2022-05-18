@@ -1,0 +1,25 @@
+cd /Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial
+jekyll build
+
+=== first time commit ===================================
+cd /Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial
+jekyll build
+cd /Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_site
+git init
+git add --all
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/x-u/yl.git
+git push -u origin main
+=== Later update ======================================
+cd /Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial
+jekyll build
+cd /Users/titanic/Dropbox/3Res_Others/Website/yanlongindustrial/_site
+git add --all
+git commit -m "first commit"
+git branch -M main
+git push -u origin main
+
+
+
+http://leixu.org/yl/
